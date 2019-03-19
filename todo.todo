@@ -1,0 +1,19 @@
+ ✔ parallax @done (17-03-21 09:12)
+ ✔ image gallery -> defaultowo laduje sie zdjecie ? @done (17-03-19 22:28)
+ ✔ team @done (17-03-21 10:02)
+   ✔ artists carousel -> zmniejszenie contentu do 230 znakow @done (17-03-20 13:15)
+   ✔ artists in rows -> brakuje tego @done (17-03-21 10:02)
+   ✔ artists -> redukcja tekstu do 230 znakow @done (17-03-20 13:18)
+ ✔ social icons -> zmiana header na custom - sprawdzenie @done (17-03-20 13:30)
+ ✔ buttons -> zmiana kolejnosci 1,2,3,4 @done (17-03-19 21:31)
+ ☐ dokonczenie count down - moze Title, countdown(color), description
+ ✔ columns -> przerobienie header 2 -> underline @done (17-03-21 11:31)
+ ☐ dodac komentarze do page
+
+Uwagi
+ ☐ Video na cala wysokosc strony - czy mozna przyciac
+ ☐ image gallery -> grid ( nie pokazuje sie poprawnie modal ) przenoslem klase dlatego sie nie pokazuje. dla przemka
+ ☐ typografia - usuniecie klasy post-inner (nietypowa typografia)
+ ☐ przerobienie countdown tak aby dzialal jak maintenace
+ ☐ trzeba przygotowac miejsce na tagi
+ ☐ Dodac strone single z sidebar.php

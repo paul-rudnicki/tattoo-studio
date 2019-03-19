@@ -1,0 +1,26 @@
+{
+    "name": "futureteam/tattoostudio",
+    "authors": [
+        {
+            "name": "Paul Rudnicki",
+            "email": "futureteam.reply@gmail.com"
+        }
+    ],
+    "require": {
+        "j7mbo/twitter-api-php": "^1.0"
+    },
+    "autoload": {
+    	"psr-4": {
+    		"app\\": "app",
+            "app\\controllers\\": "controllers"
+    	},
+    	"files": [
+            "app/functions.php",
+            "app/cmb2/functions.php",
+            "app/admin/admin-init.php"
+        ],
+    	"classmap": [
+            "app/classes"
+        ]
+    }
+}
